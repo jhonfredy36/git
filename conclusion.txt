@@ -1,0 +1,1 @@
+se vio como funciona git y los comandos principales para crear el repositorio
